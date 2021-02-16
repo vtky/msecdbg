@@ -63,3 +63,12 @@ When loading user mode mini-dumps, the Gather rule now correctly sets the stack 
 
 A bug that resulted in overtainting H or L registers has been fixed.
 Initial External Release: March, 2009
+
+
+
+## Notes
+msecdbg.zip: Zip archive downloaded from CodePlex https://archive.codeplex.com/?p=msecdbg
+SHA256: d3c6ad9b9d9c8bcc1d3fa2ecfdcc0391fb2a82ce5ef73e6b0dbc2f3cf2137901
+MD5: e5194b1ccf0a7332ce6c1c3e62f3ca43
+
+Above sources extracted from zip archive
